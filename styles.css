@@ -1,0 +1,23 @@
+#carousel {
+    position: relative;
+    width: 800px;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    width: 200px;
+    height: 200px;
+    float: left;
+  }
+  
+  #template {
+    width: 600px;
+    height: 200px;
+  }
+  
+  .template-item {
+    width: 200px;
+    height: 200px;
+    float: left;
+  }
